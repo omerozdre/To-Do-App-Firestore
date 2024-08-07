@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176090591758",
+    "project_id": "egitim-d4645",
+    "storage_bucket": "egitim-d4645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176090591758:android:1fa7a2917179562fe2c25f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_to_do_list_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5mNTWKf6TipFPCY8wCzZJAi6Sqsy-kaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176090591758:android:7100fead4f88c25fe2c25f",
+        "android_client_info": {
+          "package_name": "com.example.kisiler_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5mNTWKf6TipFPCY8wCzZJAi6Sqsy-kaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
